@@ -3,4 +3,3 @@ pymongo
 Flask-SQLAlchemy
 textblob
 finnhub-python
-finnhub
