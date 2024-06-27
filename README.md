@@ -1,7 +1,7 @@
 # SIB6_Final Project
-Login to Finnhub
-Login to MongoDB Atlas
-Docker Compose Airflow
+1.  Login to Finnhub
+2.  Login to MongoDB Atlas
+3.  Docker Compose Airflow
 # Steps :
 1. Run Airflow using `docker-compose up`
 2. Create Plugins:
