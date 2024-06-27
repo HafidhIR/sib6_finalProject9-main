@@ -1,0 +1,14 @@
+# Ignore project8env directory
+project9env/
+
+# Ignore __pycache__ directories
+__pycache__/
+
+# Ignore env directory
+env/
+
+# Ignore env directory
+env9/
+
+# Ignore logs directory
+logs/
